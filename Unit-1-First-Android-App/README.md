@@ -41,3 +41,18 @@ Understand how to write basic Kotlin code and build a simple Android app.
 - Created mutable and immutable variables
 - Updated variable values
 - Used string interpolation
+
+---
+
+## 📅 Day 3 – Functions & Return Values
+
+### Topics Covered
+- Creating functions
+- Function parameters
+- Returning values
+- Single expression functions
+
+### Practice Completed
+- Created greeting function
+- Built add and multiply functions
+- Used return values
