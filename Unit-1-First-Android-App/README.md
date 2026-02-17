@@ -25,3 +25,19 @@ Understand how to write basic Kotlin code and build a simple Android app.
 ### Practice Completed
 - Wrote first Kotlin console program
 - Printed multiple lines to the screen
+
+---
+
+## 📅 Day 2 – Variables
+
+### Topics Covered
+- What is a variable
+- val vs var
+- Type inference
+- Basic data types (Int, Double, String, Char, Boolean)
+- String templates
+
+### Practice Completed
+- Created mutable and immutable variables
+- Updated variable values
+- Used string interpolation
